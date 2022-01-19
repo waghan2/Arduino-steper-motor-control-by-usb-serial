@@ -43,7 +43,7 @@ void voltar()
 }
 void lerinstru(String movimento)
 {
-  set = true;vm1=200;vm2=200;stpm1=5000;stpm2=5500;acm1=50;acm2=10000;
+  set = true;
 
   // vm1=200;vm2=200;stpm1=5000;stpm2=5500;acm1=50;acm2=10000;
   int pos = movimento.indexOf(";");
