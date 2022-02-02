@@ -7,7 +7,7 @@
 - DRV8825 or A4988 
 - 
 ### Very simple program that gets the value form a String and execute or save it on EEprom
-
+- This program was writen on visual studio code using platformIO
 ## Recived string 
  - vm1=200;vm2=200;stpm1=5000;stpm2=5500;acm1=50;acm2=10000;delay=100;
 
