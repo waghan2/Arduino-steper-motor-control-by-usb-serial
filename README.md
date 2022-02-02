@@ -1,7 +1,11 @@
 # How to Control steper Motor over usb
 
 # Includes: include <AccelStepper.h>
-
+# Components: 
+- Arduino uno
+- cnc shield for arduino uno (cnc shield v3.0)
+- DRV8825 or A4988 
+- 
 ### Very simple program that gets the value form a String and execute or save it on EEprom
 
 ## Recived string 
