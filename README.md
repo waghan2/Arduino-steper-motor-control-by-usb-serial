@@ -17,3 +17,14 @@ acm1 = Acceleration of motor one
 acm2 = Acceleration of motor two
 
 ## After the string is received, it will be executed in the main loop.  
+flutter_auth_ui
+A Flutter plugin for using the Firebase Auth UI with Dart in Flutter apps. (not official plugin.)
+
+Status
+Android
+support
+iOS
+support
+web
+support
+Link
