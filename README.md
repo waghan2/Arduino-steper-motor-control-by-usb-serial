@@ -1,4 +1,4 @@
-# Comando-de-dois-motores-comunica--o-serial---Arduino-uno
+# How to Control stepr Motor over usb
 
 # Includes: include <AccelStepper.h>
 
