@@ -1,0 +1,44 @@
+
+  // {int pos = movimento.indexOf(";");
+  // String aux = movimento.substring(0, pos);
+  // movimento = movimento.substring(pos + 1);
+  // pos = aux.indexOf("=");
+  // String var = aux.substring(0, pos);
+  // aux = aux.substring(pos + 1);
+  // int val = aux.toInt();
+  // if (var == "vm1")
+  // {
+  //   vm1 = val;
+  //   Serial.println("vm1=" + String(vm1));
+  // }
+  // if (var == "vm2")
+  // {
+  //   vm2 = val;
+  //   Serial.println("vm2=" + String(vm2));
+  // }
+  // if (var == "stpm1")
+  // {
+  //   stpm1 = val;
+  //   Serial.println("stpm1=" + String(stpm1));
+  // }
+  // if (var == "stpm2")
+  // {
+  //   stpm2 = val;
+  //   Serial.println("stpm2=" + String(stpm2));
+  // }
+  // if (var == "acm1")
+  // {
+  //   acm1 = val;
+  //   Serial.println("acm1=" + String(acm1));
+  // }
+  // if (var == "acm2")
+  // {
+  //   acm2 = val;
+  //   Serial.println("acm2=" + String(acm2));
+  // }}
+
+  // Serial.println(movimento);
+  // if (movimento.length() > 0) { // se ainda houver instruções
+  // set = true;
+  // lerinstru(movimento);
+  // voltar(); }
